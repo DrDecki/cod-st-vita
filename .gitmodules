@@ -1,0 +1,6 @@
+[submodule "main/so_util"]
+	path = main/so_util
+	url = https://github.com/Rinnegatamante/so_util.git
+[submodule "main/falsojni"]
+	path = main/falsojni
+	url = https://github.com/Rinnegatamante/FalsoJNI.git
