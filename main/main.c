@@ -3,7 +3,7 @@
 #include <stdlib.h>
 
 #include "so_util.h"
-#include "FalsoJNI.c"
+#include "FalsoJNI.h"
 
 int main(int argc, char *argv[]) {
     sceClibPrintf("Call of Duty: Strike Team Loader Started\n");

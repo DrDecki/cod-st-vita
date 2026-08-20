@@ -1,0 +1,23 @@
+# CMake/VitaSDK-Ausgaben
+/build/
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+*.elf
+*.velf
+*.vpk
+*.suprx
+*.self
+
+# Lokale Spielinhalte und grosse Binaerdateien
+/assets/
+/lib/
+*.apk
+*.obb
+
+# Lokale Logs und Editor-Dateien
+*.log
+.vscode/
+.idea/
+*~
